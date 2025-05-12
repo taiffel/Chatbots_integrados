@@ -42,3 +42,9 @@ Para identificar melhorias e avaliar desempenho
 Como cliente  
 Quero solicitar suporte fora do horário comercial  
 Para resolver problemas com mais flexibilidade
+
+
+Atualização 12/05/2025
+
+## Inclusão do diagrama feito pelo draw.io
+## Necessário possíveis alterações
